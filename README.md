@@ -13,6 +13,7 @@ This is a simple To-Do List application built using **HTML**, **CSS**, and **Jav
 
 Here's a quick preview of the app:
 
+<img src="./Screenshot_1.png" alt="Initial To-Do List" width="400">
 ![Initial To-Do List](./Screenshot_1.png)
 ![Tasks Added](./Screenshot_3.png)
 ![Tasks Marked Completed](./Screenshot_5.png)
@@ -27,4 +28,25 @@ Here's a quick preview of the app:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/dorukhanbekdur/to-do-list-app.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd to-do-list-app
+   
+3. Open the 'index.html' file in your browser:
+   ```bash
+   Open index.html in your favorite browser
+
+## Future Improvements
+
+- **Persistent Storage:** Add local storage to save tasks even after refreshing the page.
+- **Task Categories:** Categorize tasks into different lists.
+- **Edit Task:** Allow editing of tasks after they've been added.
+
+
+
+
+
+
+   
