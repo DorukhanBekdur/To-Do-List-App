@@ -14,9 +14,8 @@ This is a simple To-Do List application built using **HTML**, **CSS**, and **Jav
 Here's a quick preview of the app:
 
 <img src="./Screenshot_1.png" alt="Initial To-Do List" width="400">
-![Initial To-Do List](./Screenshot_1.png)
-![Tasks Added](./Screenshot_3.png)
-![Tasks Marked Completed](./Screenshot_5.png)
+<img src="./Screenshot_3.png" alt="Initial To-Do List" width="400">
+<img src="./Screenshot_5.png" alt="Initial To-Do List" width="400">
 
 ## Technologies Used
 
