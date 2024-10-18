@@ -27,11 +27,11 @@ Here's a quick preview of the app:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dorukhanbekdur/to-do-list-app.git
+   git clone https://github.com/DorukhanBekdur/To-Do-List-App
 
 2. Navigate to the project directory:
    ```bash
-   cd to-do-list-app
+   cd To-Do-List-App
    
 3. Open the 'index.html' file in your browser:
    ```bash
